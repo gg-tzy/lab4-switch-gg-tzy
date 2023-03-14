@@ -1,0 +1,5 @@
+/home/tzy/Desktop/lab4-switch-gg-tzy/cmake-build-debug/CMakeFiles/switch.dir
+/home/tzy/Desktop/lab4-switch-gg-tzy/cmake-build-debug/CMakeFiles/simulator.dir
+/home/tzy/Desktop/lab4-switch-gg-tzy/cmake-build-debug/CMakeFiles/test.dir
+/home/tzy/Desktop/lab4-switch-gg-tzy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tzy/Desktop/lab4-switch-gg-tzy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
